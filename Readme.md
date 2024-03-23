@@ -1,0 +1,1 @@
+Basic dockerized web server that replies with the request json. Useful for testing (in my case, I tested the SAP BTP job scheduler service)
